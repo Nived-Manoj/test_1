@@ -1,0 +1,2 @@
+D:/CODYNAMIX/dhrisya/Test_-main/Test_-main/android/app/.cxx/Debug/4tr6983s/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/CODYNAMIX/dhrisya/Test_-main/Test_-main/android/app/.cxx/Debug/4tr6983s/armeabi-v7a/CMakeFiles/rebuild_cache.dir
